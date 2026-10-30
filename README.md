@@ -35,17 +35,20 @@ Transformo ideias em sites, sistemas e soluções digitais com foco em praticida
 
 ✨ Projetos em destaque
 Projeto	O que é
-ZAION · Portfólio	Meu site profissional, feito com HTML, CSS e JavaScript. Acessar o site
+ZAION · Portfólio	Meu site profissional, feito com HTML, CSS e JavaScript. [Acessar o site](https://zaionluz.github.io/Portifolio/)
 Identidades visuais	Projetos de marca e materiais gráficos, incluindo Helly Viagens. Veja os trabalhos no meu portfólio.
 Sites e landing pages	Projetos e demonstrações de páginas comerciais com foco em apresentação e contato. Veja os exemplos no portfólio.
 
 
 🤝 Vamos criar algo juntos?
 Se você precisa de um site, landing page, identidade visual, planilha ou solução digital personalizada, entre em contato!
+
 <div align="center">
 
+🌐 **Portfólio:** [Acessar meu site](https://zaionluz.github.io/Portifolio/)
 
-🌐 Portfólio · 💬 WhatsApp · ✉️ E-mail
+💬 **WhatsApp:** [Conversar comigo](https://wa.me/5588997173005)
 
-<sub>Feito com 💜 por Zaion · ZAION Soluções Digitais</sub>
+📧 **E-mail:** [Zaion0301@gmail.com](mailto:Zaion0301@gmail.com)
+
 </div>
