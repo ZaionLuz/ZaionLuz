@@ -1,16 +1,51 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**ZaionLuz/ZaionLuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://zaionluz.github.io/Portifolio/">
+  <img src="https://raw.githubusercontent.com/ZaionLuz/Portifolio/main/assets/zaion-logo-original.png" alt="ZAION Soluções Digitais" width="440">
+</a>
 
-Here are some ideas to get you started:
+Olá! Eu sou o Zaion 👋
+Estudante de Ciência da Computação · Desenvolvedor · Criador da ZAION Soluções Digitais
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Transformo ideias em sites, sistemas e soluções digitais com foco em praticidade, identidade visual e uma boa experiência para quem usa.
+
+
+
+</div>
+
+💜 Sobre mim
+- 🎓 Cursando Bacharelado em Ciência da Computação no IFCE.
+- 💻 Interesse em desenvolvimento web, backend, banco de dados e automação.
+- 🚀 À frente da ZAION Soluções Digitais, criando projetos digitais para pessoas e negócios.
+- 📍 Aracati, Ceará — Brasil.
+🛠️ Tecnologias e ferramentas
+<div align="center">
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+✨ Projetos em destaque
+Projeto	O que é
+ZAION · Portfólio	Meu site profissional, feito com HTML, CSS e JavaScript. Acessar o site
+Identidades visuais	Projetos de marca e materiais gráficos, incluindo Helly Viagens. Veja os trabalhos no meu portfólio.
+Sites e landing pages	Projetos e demonstrações de páginas comerciais com foco em apresentação e contato. Veja os exemplos no portfólio.
+
+
+🤝 Vamos criar algo juntos?
+Se você precisa de um site, landing page, identidade visual, planilha ou solução digital personalizada, entre em contato!
+<div align="center">
+
+
+🌐 Portfólio · 💬 WhatsApp · ✉️ E-mail
+
+<sub>Feito com 💜 por Zaion · ZAION Soluções Digitais</sub>
+</div>
